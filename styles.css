@@ -1,0 +1,18 @@
+td {
+    border: 1px solid #121213 ;
+    width: 64px; height: 64px;
+    font-size: 200%; font-family: monospace; font-weight: bold;
+    text-align: center; color: white;
+}
+
+.g { /* _g_reen. */
+    background-color: #538D4E ;
+}
+
+.y { /* _y_ellow */
+    background-color: #B59F3B ;
+}
+
+.r { /* g_r_ay. I thought misses were in red not in gray - whoops. */
+    background-color: #3A3A3C ;
+}
